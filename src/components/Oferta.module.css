@@ -1,3 +1,4 @@
+
 .section {
   padding: 110px 0;
   background: var(--ink-soft);
@@ -182,4 +183,11 @@
   .card {
     padding: 38px 26px;
   }
+}
+
+@media (max-width: 640px) {
+  .section { padding: 72px 0; }
+  .wrap { padding: 0 20px; }
+  .card { padding: 34px 22px; border-radius: 22px; }
+  .price { font-size: 3rem; }
 }
