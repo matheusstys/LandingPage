@@ -1,5 +1,5 @@
 export const config = {
-  name: 'SEUNOME',
+  name: 'Lucas Quaggio',
   whatsapp: 'SEUWHATSAPP',   // só números: ex. 11999998888
   instagram: 'lucas.quaggio', // sem @: ex. matheusstys
   price: 'R$ 497',
