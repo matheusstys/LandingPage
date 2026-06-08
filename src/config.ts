@@ -1,7 +1,7 @@
 export const config = {
   name: 'SEUNOME',
   whatsapp: 'SEUWHATSAPP',   // só números: ex. 11999998888
-  instagram: 'SEUINSTAGRAM', // sem @: ex. matheusstys
+  instagram: 'lucas.quaggio', // sem @: ex. matheusstys
   price: 'R$ 497',
   deliveryTime: '24 horas',
 } as const
