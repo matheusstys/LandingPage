@@ -1,6 +1,6 @@
 export const config = {
   name: 'Lucas Quaggio',
-  whatsapp: 'SEUWHATSAPP',   // só números: ex. 11999998888
+  whatsapp: '11975579185',   // só números: ex. 11999998888
   instagram: 'lucas.quaggio', // sem @: ex. matheusstys
   price: 'R$ 497',
   deliveryTime: '24 horas',
